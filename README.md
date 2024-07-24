@@ -10,16 +10,19 @@
 
 ## Screenshots
 ### Home Screen
-file:///home/aayush/Pictures/Screenshots/Screenshot%20from%202024-07-24%2023-24-11.png
+![Screenshot from 2024-07-24 23-24-11](https://github.com/user-attachments/assets/1c6d0514-13ee-443e-b5e1-71e9c8902417)
+
+
+
 
 ### Room Listing
-![Room Listing](path_to_room_listing_screenshot)
+![image](https://github.com/user-attachments/assets/27648fa4-1ea1-46d4-b30d-50f6fa865db2)
 
 ### Booking Process
-![Booking Process](path_to_booking_process_screenshot)
+![image](https://github.com/user-attachments/assets/6036bd3c-0d63-466a-a674-0daf43d4238b)
 
 ### Booking Confirmation
-![Booking Confirmation](path_to_booking_confirmation_screenshot)
+![image](https://github.com/user-attachments/assets/0bb1759b-4c1f-4006-b20a-bf6aa36c2867)
 
 
 
