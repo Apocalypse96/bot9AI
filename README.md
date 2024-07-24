@@ -33,6 +33,7 @@
 
 1. Clone the repository:
     ```bash
+    https://github.com/Apocalypse96/bot9AI.git
     ```
 
 2. Navigate to the project directory:
