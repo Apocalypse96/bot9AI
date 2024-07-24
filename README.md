@@ -10,7 +10,7 @@
 
 ## Screenshots
 ### Home Screen
-![Home Screen](path_to_home_screen_screenshot)
+file:///home/aayush/Pictures/Screenshots/Screenshot%20from%202024-07-24%2023-24-11.png
 
 ### Room Listing
 ![Room Listing](path_to_room_listing_screenshot)
